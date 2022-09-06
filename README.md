@@ -1,4 +1,4 @@
-# CovidAug2022
+# Covid-19 Data Exploration, Analysis, and Visualization
 An analysis of the publicly available Covid-19 data as of August 2022
 
 # Tableau Dashboard Analysis
